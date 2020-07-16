@@ -20,4 +20,4 @@ java -jar target/leader-election-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 You can run multiple instances and view it like this:
-![]()
+![S26u6UNOFW.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1594899480821/FhuEfwYV-.gif)
