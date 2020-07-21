@@ -1,6 +1,9 @@
 # leader-election-zookeeper
 A Java client code to connect to Apache Zookeeper and perform distributed consensus using Leader Election algorithm.
 
+## Explanation
+[Distributed Consensus using Leader Election Algorithm](https://arpendu.hashnode.dev/distributed-consensus-using-leader-election-algorithm-ckcoq8wj6005ieps1114w298y)
+
 You need to run Zookeper for this. You can either download from [Zookeeper download](https://zookeeper.apache.org/releases.html) or you can use [Zookeeper Docker](https://hub.docker.com/r/wurstmeister/zookeeper/) if yuo have a docker instance running.
 
 Create a znode in zookeper by logging in:
